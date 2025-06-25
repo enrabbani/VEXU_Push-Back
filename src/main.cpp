@@ -261,7 +261,3 @@ void opcontrol() {
   }
 }
 
-void bigCat()
-{
-   std::cout << "big cat";
-}
